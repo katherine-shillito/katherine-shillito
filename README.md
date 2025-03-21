@@ -1,6 +1,5 @@
 ## About Me
 
-
-- I’m currently working on a computational genomics research project
-- I’m currently studying data science and biology
+- University of Virginia Undergraduate Student
+- Studying biology and data science
 - Pronouns: She/Her
